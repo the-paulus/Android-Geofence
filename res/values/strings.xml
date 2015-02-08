@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="app_name">Geofence</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+ 
+    <string name="geofence_transition_notification_title">
+        %1$s geofence(s) %2$s
+    </string>
+    <string name="geofence_transition_notification_text">
+        Click notification to return to app
+    </string>
+ 
+    <string name="geofence_transition_unknown">Unknown transition</string>
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="geofence_transition_dwell">Stop dwelling!</string>
+    
+    <string name="geofence_intent_service">Geofence Intent Service</string>
+</resources>
